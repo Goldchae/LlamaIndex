@@ -4,4 +4,4 @@
 
 ## StarterTutorial
 
-공식 문서 https://docs.llamaindex.ai/en/stable/getting_started/starter_example/ 따라 맛보기
+공식 문서 https://docs.llamaindex.ai/en/stable/getting_started/starter_example/ 따라 맛보기!
